@@ -1,0 +1,92 @@
+[
+  {
+    "id": "c459627b-5c5b-4c89-b2bf-a3a4f96e3747",
+    "title": "Sample Product 1",
+    "genre": "Electronics",
+    "price": 499.99,
+    "stock": 100,
+    "createdAt": "2023-10-08T05:34:18.737Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a0ccfb61-d470-41e7-9ce3-6f9a7d3146cb",
+    "title": "Sample Product 2",
+    "genre": "Electronics",
+    "price": 599.99,
+    "stock": 80,
+    "createdAt": "2023-10-08T05:34:18.737Z",
+    "updatedAt": null
+  },
+  {
+    "id": "94e8f59c-0b8f-485e-a3f1-2ad3e12b82b6",
+    "title": "Sample Product 3",
+    "genre": "Clothing",
+    "price": 29.99,
+    "stock": 120,
+    "createdAt": "2023-10-08T05:34:18.737Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f09c208f-5ec3-446e-9d90-12df14e78b54",
+    "title": "Sample Product 4",
+    "genre": "Home & Kitchen",
+    "price": 299.99,
+    "stock": 50,
+    "createdAt": "2023-10-08T05:34:18.737Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2922c3ed-3f56-40c2-bd2b-ef4c132507cd",
+    "title": "Sample Product 5",
+    "genre": "Toys & Games",
+    "price": 19.99,
+    "stock": 150,
+    "createdAt": "2023-10-08T05:34:18.737Z",
+    "updatedAt": null
+  },
+  {
+    "id": "bcbb66e7-731e-48b9-8b28-3c5d7893e5cc",
+    "title": "Sample Product 6",
+    "genre": "Books",
+    "price": 9.99,
+    "stock": 200,
+    "createdAt": "2023-10-08T05:34:18.737Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5ebd276f-5d42-4a4f-9b2a-3f8a53d1d88e",
+    "title": "Sample Product 7",
+    "genre": "Sports & Outdoors",
+    "price": 149.99,
+    "stock": 70,
+    "createdAt": "2023-10-08T05:34:18.737Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e62f0534-c609-4347-b7ce-20dd4f4015f9",
+    "title": "Sample Product 8",
+    "genre": "Health & Personal Care",
+    "price": 39.99,
+    "stock": 90,
+    "createdAt": "2023-10-08T05:34:18.737Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3c5d19db-0aef-4abf-9ca7-97933e155f74",
+    "title": "Sample Product 9",
+    "genre": "Furniture",
+    "price": 399.99,
+    "stock": 30,
+    "createdAt": "2023-10-08T05:34:18.737Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3fa76eae-7ea4-4f4c-9f59-2f571d0a4da0",
+    "title": "Sample Product 10",
+    "genre": "Electronics",
+    "price": 699.99,
+    "stock": 60,
+    "createdAt": "2023-10-08T05:34:18.737Z",
+    "updatedAt": null
+  }
+]
